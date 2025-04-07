@@ -1,2 +1,2 @@
 $('#spanYear').html(new Date().getFullYear());
-alert("5_")
+alert("5_");
