@@ -57,3 +57,5 @@
   }
 
 })(); // End of use strict
+const year = new Date();
+now = year.toDateString();
