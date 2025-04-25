@@ -5,4 +5,3 @@ document.addEventListener("DOMContentLoaded",()=>{
         element.textContent = currentYear;
     });
 });
-alert();
